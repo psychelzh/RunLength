@@ -1,0 +1,7 @@
+# Visual Studio
+Debug
+*.sln
+*.vcx*
+
+# Visual Studio Code
+.vs
